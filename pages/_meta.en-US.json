@@ -26,5 +26,13 @@
     },
     "the-online-store": {
       "title" : "the-online-store"
-    }
+    },
+    
+      "notes": {
+        "title" : "notes"
+      },
+      "about": {
+        "title" : "about"
+      }
+    
 }
