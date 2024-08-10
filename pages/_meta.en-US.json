@@ -1,0 +1,30 @@
+{
+    "index": {
+      "title" : "Home"
+    },
+    "--": {
+    "type": "separator",
+    "title": "Steps"
+    },
+    "swot": {
+      "title" : "swot"
+    },
+    "vision": {
+      "title" : "vision"
+    },
+    "brand": {
+      "title" : "brand"
+    },
+    "marketing": {
+      "title" : "marketing"
+    },
+    "photography-studio": {
+      "title" : "photography-studio"
+    },
+    "choose-product": {
+      "title" : "choose-product"
+    },
+    "the-online-store": {
+      "title" : "the-online-store"
+    }
+}
