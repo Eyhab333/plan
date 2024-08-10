@@ -11,10 +11,10 @@ export default {
   )  
   ,
   project: {
-    link: 'https://github.com/Eyhab333/ahab-docs'
+    link: 'https://github.com/Eyhab333/plan'
   }
   ,
-  docsRepositoryBase: 'https://github.com/Eyhab333/ahab-docs'
+  docsRepositoryBase: 'https://github.com/Eyhab333/plan'
   ,
   useNextSeoProps() {
     const { asPath } = useRouter()
@@ -28,8 +28,8 @@ export default {
   head: (
     <>
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta property="og:title" content="Ahab docs" />
-      <meta property="og:description" content="Documentation for my new project" />
+      <meta property="og:title" content="plan" />
+      <meta property="og:description" content="plan for my new project" />
       <link rel="icon" href="/favicon-32x32.png" type="image/svg+xml" />
       <link rel="icon" href="/favicon-32x32.png" type="image/png" />
     </>
