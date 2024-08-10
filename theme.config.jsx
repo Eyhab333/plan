@@ -43,11 +43,12 @@ export default {
   footer: {
     text: (
       <span>
-        تطوير {new Date().getFullYear()} ©{' '}
+        تطوير <span>{' '}</span>
         <a href="https://www.linkedin.com/in/ahab-fadl/" target="_blank">
           ايهاب فضل
         </a>
-        
+        <span>{' '}</span>
+        ©{' '} {new Date().getFullYear()} 
       </span>
       
     )
