@@ -31,10 +31,13 @@
     "title": "سابعا: المتجر الالكتروني"
   },
   "clients-service": {
-    "title": "خدمة العملاء"
+    "title": "ثامنا: خدمة العملاء"
   },
   "customer-analysis": {
-    "title": "تحليل العملاء"
+    "title": "تاسعا: تحليل العملاء"
+  },
+  "---": {
+    "type": "separator"
   },
   "suggestions" : {
     "title" : "اقتراحات"
