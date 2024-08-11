@@ -2,6 +2,10 @@
     "index": {
       "title" : "Home"
     },
+    
+  "track-my-progress": {
+    "title" : "track-my-progress"
+  },
     "--": {
     "type": "separator",
     "title": "Steps"
@@ -33,6 +37,9 @@
       },
       "about": {
         "title" : "about"
+      },
+      "clients-service": {
+        "title" : "clients-service"
       }
     
 }

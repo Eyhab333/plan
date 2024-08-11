@@ -2,6 +2,9 @@
   "index": {
     "title" : "المقدمة"
   },
+  "track-my-progress": {
+    "title" : "track-my-progress"
+  },
   "--": {
   "type": "separator",
   "title": "مراحل الخطة"
@@ -34,5 +37,8 @@
       },
       "about": {
         "title" : "لمحة عني"
+      },
+      "clients-service": {
+        "title" : "خدمة العملاء"
       }
 }
