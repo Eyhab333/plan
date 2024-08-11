@@ -1,45 +1,48 @@
 {
-    "index": {
-      "title" : "Home"
-    },
-    
-  "track-my-progress": {
-    "title" : "track-my-progress"
+  "index": {
+    "title": "Home"
   },
-    "--": {
+  "track-my-progress": {
+    "title": "track-my-progress"
+  },
+  "--": {
     "type": "separator",
     "title": "Steps"
-    },
-    "swot": {
-      "title" : "swot"
-    },
-    "vision": {
-      "title" : "vision"
-    },
-    "brand": {
-      "title" : "brand"
-    },
-    "marketing": {
-      "title" : "marketing"
-    },
-    "photography-studio": {
-      "title" : "photography-studio"
-    },
-    "choose-product": {
-      "title" : "choose-product"
-    },
-    "the-online-store": {
-      "title" : "the-online-store"
-    },
-    
-      "notes": {
-        "title" : "notes"
-      },
-      "about": {
-        "title" : "about"
-      },
-      "clients-service": {
-        "title" : "clients-service"
-      }
-    
+  },
+  "swot": {
+    "title": "swot"
+  },
+  "vision": {
+    "title": "vision"
+  },
+  "brand": {
+    "title": "brand"
+  },
+  "marketing": {
+    "title": "marketing"
+  },
+  "photography-studio": {
+    "title": "photography-studio"
+  },
+  "choose-product": {
+    "title": "choose-product"
+  },
+  "the-online-store": {
+    "title": "Online store"
+  },
+  "clients-service": {
+    "title": "Clients service"
+  },
+  "customer-analysis": {
+    "title": "Customer analysis"
+  },
+  "suggestions" : {
+    "title" : "suggestions"
+  },
+  "notes": {
+    "title": "notes"
+  },
+  "about": {
+    "title": "about"
+  }
 }
