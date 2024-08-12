@@ -1,51 +1,54 @@
 {
   "index": {
-    "title": "Home"
+    "title": "المقدمة"
   },
   "track-my-progress": {
-    "title": "track-my-progress"
+    "title": "تابع تقدمي"
   },
   "--": {
     "type": "separator",
-    "title": "Steps"
+    "title": "مراحل الخطة"
   },
   "swot": {
-    "title": "swot"
+    "title": "اولا: تحليل الوضع الحالي"
   },
   "vision": {
-    "title": "vision"
+    "title": "ثانيا: الرؤية والرسالة"
   },
   "brand": {
-    "title": "brand"
+    "title": "ثالثا: الهوية البصرية"
   },
   "marketing": {
-    "title": "marketing"
+    "title": "رابعا: الخطة التسويقية"
   },
   "photography-studio": {
-    "title": "photography-studio"
+    "title": "خامسا: استديو التصوير"
   },
   "choose-product": {
-    "title": "choose-product"
+    "title": "سادسا: دراسة المنتج الذهبي"
   },
   "the-online-store": {
-    "title": "Online store"
+    "title": "سابعا: المتجر الالكتروني"
   },
   "clients-service": {
-    "title": "Clients service"
+    "title": "ثامنا: خدمة العملاء"
   },
   "customer-analysis": {
-    "title": "Customer analysis"
+    "title": "تاسعا: تحليل العملاء"
+  },
+  "---": {
+    "type": "separator"
   },
   "suggestions" : {
-    "title" : "suggestions"
+    "title" : "اقتراحات"
   },
   "notes": {
-    "title": "notes"
+    "title": "ملاحظات"
   },
   "about": {
-    "title": "about"
+    "title": "لمحة عني"
   },
   "plan-updates": {
-    "title": "Plan updates"
+    "title": "تحديثات الخطة"
   }
 }
