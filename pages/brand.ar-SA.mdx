@@ -11,9 +11,76 @@ import Image from 'next/image'
 
 <Image src="/imgs/Standard template for social media posts.png" alt="Hello" width={500} height={500} />
 
+---
+
+## قوالب اخرى
+
+<Image src="/imgs/alfares-est.png" alt="Hello" width={500} height={500} />    
+
+---   
+
+<Image src="/imgs/b-p.png" alt="Hello" width={500} height={500} />
+
+---
+
+<Image src="/imgs/insta.png" alt="Hello" width={500} height={500} />
+
+---
+
+<Image src="/imgs/g-w-p.png" alt="Hello" width={500} height={500} />
+
+---
+
+<Image src="/imgs/y-p.png" alt="Hello" width={500} height={500} />
+
+---
+
+export function VideoOutro() {
+  return (
+    <video width="320" height="600" controls preload="none">
+      <source src="/videos/outro.mp4" type="video/mp4" />
+      
+      Your browser does not support the video tag.
+    </video>
+  )
+}
+
+---
+
+<VideoOutro />
+
+export function VideoIntro() {
+  return (
+    <video width="320" height="600" controls preload="none">
+      <source src="/videos/intro.mp4" type="video/mp4" />
+      
+      Your browser does not support the video tag.
+    </video>
+  )
+}
+
+<VideoIntro />
+
+---
+
+export function Videobwp() {
+  return (
+    <video width="320" height="600" controls preload="none">
+      <source src="/videos/b-w-p.mp4" type="video/mp4" />
+      
+      Your browser does not support the video tag.
+    </video>
+  )
+}
+
+<Videobwp />
+
 ## الالوان
 
 https://colorhunt.co/palettes/gold
+
+
+---
 
 ## الخطوط
 
@@ -55,7 +122,6 @@ export function FAQBox({ title, children }) {
 
 </FAQBox>
 
----
 
 ## صوت العلامة التجارية
 
@@ -94,7 +160,7 @@ https://blog.mostaql.com/brand-voice/
 
 ---
 
-## مهم جداا تبني عمل خيري 
+## مهم جداا ان نتبنى عمل خيري 
 
 كل العلامات التجارية الكبرى تتبرع مثلا الى جمعيات خيرية هذا الشئ يرفع قيمة علامتنا التجارية جدااااا
 
