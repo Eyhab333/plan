@@ -5,6 +5,9 @@
   "track-my-progress": {
     "title": "تابع تقدمي"
   },
+  "weekly-assessment" : {
+    "title" : "التقييم الاسبوعي"
+  },
   "--": {
     "type": "separator",
     "title": "مراحل الخطة"
@@ -18,12 +21,14 @@
   "brand": {
     "title": "ثالثا: الهوية البصرية"
   },
-  "marketing": {
-    "title": "رابعا: التسويق الالكتروني"
-  },
   "photography-studio": {
-    "title": "خامسا: استديو التصوير"
+    
+    "title": "رابعا: استديو التصوير"
   },
+  "marketing": {
+    "title": "خامسا: التسويق الالكتروني"
+  },
+  
   "choose-product": {
     "title": "سادسا: دراسة المنتج الذهبي"
   },

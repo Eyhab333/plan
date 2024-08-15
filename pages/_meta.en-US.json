@@ -1,54 +1,59 @@
 {
   "index": {
-    "title": "المقدمة"
+    "title": "introduction"
   },
   "track-my-progress": {
-    "title": "تابع تقدمي"
+    "title": " track-my-progress"
+  },
+  "weekly-assessment" : {
+    "title" : " weekly-assessment"
   },
   "--": {
     "type": "separator",
     "title": "مراحل الخطة"
   },
   "swot": {
-    "title": "اولا: تحليل الوضع الحالي"
+    "title": "1-swot "
   },
   "vision": {
-    "title": "ثانيا: الرؤية والرسالة"
+    "title": "2-vision "
   },
   "brand": {
-    "title": "ثالثا: الهوية البصرية"
-  },
-  "marketing": {
-    "title": "رابعا: التسويق الالكتروني"
+    "title": "3-brand"
   },
   "photography-studio": {
-    "title": "خامسا: استديو التصوير"
+    
+    "title": "4-photograohy  "
   },
+  "marketing": {
+    "title": "5-eMarketing "
+  },
+  
   "choose-product": {
-    "title": "سادسا: دراسة المنتج الذهبي"
+    "title": " 6-golden-product"
   },
   "the-online-store": {
-    "title": "سابعا: المتجر الالكتروني"
+    "title": "7-online-store  "
   },
   "clients-service": {
-    "title": "ثامنا: خدمة العملاء"
+    "title": "8-clients-service"
   },
   "customer-analysis": {
-    "title": "تاسعا: تحليل العملاء"
+    "title": "9-customer-analysis"
   },
   "---": {
     "type": "separator"
   },
   "suggestions" : {
-    "title" : "اقتراحات"
+    "title" : "suggestions"
   },
   "notes": {
-    "title": "ملاحظات"
+    "title": "notes"
   },
   "about": {
-    "title": "لمحة عني"
+    "title": "about "
   },
   "plan-updates": {
-    "title": "تحديثات الخطة"
+    "title": " plan-updates"
   }
 }
