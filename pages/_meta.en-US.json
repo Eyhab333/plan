@@ -8,6 +8,12 @@
   "weekly-assessment" : {
     "title" : " weekly-assessment"
   },
+  "new-product-arrival" : {
+    "title" : "new-product-arrival"
+  },
+  "plan-updates": {
+    "title": " plan-updates"
+  },
   "--": {
     "type": "separator",
     "title": "مراحل الخطة"
@@ -52,8 +58,6 @@
   },
   "about": {
     "title": "about "
-  },
-  "plan-updates": {
-    "title": " plan-updates"
   }
+  
 }

@@ -8,6 +8,12 @@
   "weekly-assessment" : {
     "title" : "التقييم الاسبوعي"
   },
+  "new-product-arrival" : {
+    "title" : "خطة الاعلان للمنتج"
+  },
+  "plan-updates": {
+    "title": "تحديثات الخطة"
+  },
   "--": {
     "type": "separator",
     "title": "مراحل الخطة"
@@ -52,8 +58,5 @@
   },
   "about": {
     "title": "لمحة عني"
-  },
-  "plan-updates": {
-    "title": "تحديثات الخطة"
   }
 }
