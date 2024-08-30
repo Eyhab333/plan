@@ -38,23 +38,27 @@
     "title": "خامسا: التسويق الالكتروني"
   },
   
-  "choose-product": {
-    "title": "سادسا: دراسة المنتج الذهبي"
-  },
   "the-online-store": {
-    "title": "سابعا: المتجر الالكتروني"
+    "title": "سادسا: المتجر الالكتروني"
   },
   "clients-service": {
-    "title": "ثامنا: خدمة العملاء"
+    "title": "سابعا: خدمة العملاء"
   },
   "customer-analysis": {
-    "title": "تاسعا: تحليل العملاء"
+    "title": "ثامنا: تحليل العملاء"
+  },
+  "choose-product": {
+    "title": "تاسعا: دراسة المنتج الذهبي"
   },
   "---": {
     "type": "separator"
   },
   "suggestions" : {
     "title" : "اقتراحات"
+  },
+  
+  "needs" : {
+    "title" : "طلبات"
   },
   "notes": {
     "title": "ملاحظات"
