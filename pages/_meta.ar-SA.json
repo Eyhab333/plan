@@ -30,25 +30,30 @@
   "brand": {
     "title": "ثالثا: الهوية البصرية"
   },
-  "photography-studio": {
-    
-    "title": "رابعا: استديو التصوير"
+  "website": {
+    "title": "رابعا: الموقع الالكتروني"
   },
   "marketing": {
     "title": "خامسا: التسويق الالكتروني"
   },
-  
+  "social-media": {
+    "title": "سادسا: تركيز السوشال ميديا"
+  },
+  "photography-studio": {
+    
+    "title": "سابعا: استديو التصوير"
+  },
   "the-online-store": {
-    "title": "سادسا: المتجر الالكتروني"
+    "title": "ثامنا: المتجر الالكتروني"
   },
   "clients-service": {
-    "title": "سابعا: خدمة العملاء"
+    "title": "تاسعا: خدمة العملاء"
   },
   "customer-analysis": {
-    "title": "ثامنا: تحليل العملاء"
+    "title": "عاشراً: تحليل العملاء"
   },
   "choose-product": {
-    "title": "تاسعا: دراسة المنتج الذهبي"
+    "title": "الحادي عشر: دراسة المنتج الذهبي"
   },
   "---": {
     "type": "separator"

@@ -30,14 +30,20 @@
   "brand": {
     "title": "3-brand"
   },
+  "website": {
+    "title": "4-website"
+  },
+  "social-media": {
+    "title": "social media"
+  },
+  
+  "marketing": {
+    "title": "5-eMarketing "
+  },
   "photography-studio": {
     
     "title": "4-photograohy  "
   },
-  "marketing": {
-    "title": "5-eMarketing "
-  },
-  
   "choose-product": {
     "title": " 6-golden-product"
   },
