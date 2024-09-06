@@ -19,3 +19,11 @@ packages/nextra-theme-*/style.css
 
 tsup.config.bundled*
 tsconfig.tsbuildinfo
+
+
+# local env files
+.env
+
+# Auto Generated PWA files
+**/public/sw.js
+**/public/workbox-*.js
