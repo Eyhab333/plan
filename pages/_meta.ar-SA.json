@@ -8,18 +8,12 @@
   "weekly-assessment" : {
     "title" : "التقييم والخطة الاسبوعية"
   },
-  "search4new-clients" : {
-    "title" : "جدول بالفئة المستهدفة"
-  },
-  "new-product-arrival" : {
-    "title" : "خطة الاعلان للمنتج"
-  },
-  "plan-updates": {
-    "title": "تحديثات الخطة"
-  },
+  
+  
+  
   "--": {
     "type": "separator",
-    "title": "مراحل الخطة"
+    "title": "مراحل الخطة بالتفصيل"
   },
   "swot": {
     "title": "اولا: تحليل الوضع الحالي"
@@ -55,8 +49,22 @@
   "choose-product": {
     "title": "الحادي عشر: دراسة المنتج الذهبي"
   },
+
+
   "---": {
     "type": "separator"
+  },
+
+
+  "search4new-clients" : {
+    "title" : "جدول بالفئة المستهدفة"
+  },
+
+  "new-product-arrival" : {
+    "title" : "خطة الاعلان للمنتج"
+  },
+  "plan-updates": {
+    "title": "تحديثات الخطة"
   },
   "suggestions" : {
     "title" : "اقتراحات"
