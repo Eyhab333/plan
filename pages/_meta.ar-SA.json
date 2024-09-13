@@ -2,11 +2,9 @@
   "index": {
     "title": "المقدمة"
   },
-  "track-my-progress": {
-    "title": "تابع تقدمي"
-  },
+  
   "weekly-assessment" : {
-    "title" : "التقييم والخطة الاسبوعية"
+    "title" : "الخطة الاسبوعية وتقييمها"
   },
   
   
@@ -66,6 +64,14 @@
   "plan-updates": {
     "title": "تحديثات الخطة"
   },
+  "track-my-progress": {
+    "title": "تابع تقدمي"
+  },
+
+  "----": {
+    "type": "separator"
+  },
+
   "suggestions" : {
     "title" : "اقتراحات"
   },
